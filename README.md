@@ -2,6 +2,7 @@
  
 ![eurika](https://github.com/safiyadaoudi01/MicroServiceTp/assets/120654774/9b665bac-7423-433a-84f4-36978f2e43ef)
 
+(1 er microservice) 
 
 Clients de la base de donnée H2 
 
@@ -15,26 +16,25 @@ Clients de la base de donnée H2
 
 
 
-Clients en 8888 (1 er microservice avec GateWay) 
+Clients avec GateWay
 
 
 ![getClients8888](https://github.com/safiyadaoudi01/MicroServiceTp/assets/120654774/5a451f86-ec86-467f-83e2-64d3c72fb53c)
 
 
-Voitures de la base de donnée H2
+(2 emme microservice) 
+
+
+Voitures 
+
+
+![getVoitures](https://github.com/safiyadaoudi01/MicroServiceTp/assets/120654774/f5a2ca6f-efc9-4172-955c-4dc499e6bf4b)
 
 
 
-![getVoitures](https://github.com/safiyadaoudi01/MicroServiceTp/assets/120654774/468d9681-64f5-4e92-b8fe-7bfbe6fd4ba1)
+
+![getVoiture1](https://github.com/safiyadaoudi01/MicroServiceTp/assets/120654774/5db21a9c-df91-42da-a224-eabccb809022)
 
 
 
-![getVoiture1](https://github.com/safiyadaoudi01/MicroServiceTp/assets/120654774/8352c360-a957-4303-a98c-9a40601c7808)
-
-
-
-Voitures en 8888 (2 emme microservice avec GateWay) 
-
-
-![getVoituresG](https://github.com/safiyadaoudi01/MicroServiceTp/assets/120654774/c89a1541-3383-4eb5-8ef0-a1caec5e364a)
 
