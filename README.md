@@ -22,7 +22,7 @@ Clients avec GateWay
 ![getClients8888](https://github.com/safiyadaoudi01/MicroServiceTp/assets/120654774/5a451f86-ec86-467f-83e2-64d3c72fb53c)
 
 
-(2 emme microservice) 
+(2 èmme microservice) 
 
 
 Voitures 
@@ -33,8 +33,15 @@ Voitures
 
 
 
+
 ![getVoiture1](https://github.com/safiyadaoudi01/MicroServiceTp/assets/120654774/5db21a9c-df91-42da-a224-eabccb809022)
 
 
 
+Voitures d'un client spécifique
+
+
+
+
+![getVoitureClient](https://github.com/safiyadaoudi01/MicroServiceTp/assets/120654774/f081cb18-161c-4e63-bf27-0163b55cb34a)
 
